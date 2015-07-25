@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.2.16'
 gem 'bootstrap-sass'
 gem 'execjs', '~> 2.5.2'
+gem 'turbolinks'
 
 group :development, :test do
 	gem 'sqlite3'
